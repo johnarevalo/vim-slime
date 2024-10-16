@@ -48,7 +48,7 @@ xmap <leader>s <Plug>SlimeRegionSend
 nmap <leader>s <Plug>SlimeMotionSend
 
 "send line
-nmap <leader>ss <Plug>SlimeLineSend
+nmap <leader>ss <Plug>SlimeSendCurrentLine
 ```
 
 Of course these mappings are just examples; you can set them according to your preference.
